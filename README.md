@@ -1,0 +1,1 @@
+Exercise on JavaScript arrays
